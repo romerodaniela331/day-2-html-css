@@ -1,0 +1,61 @@
+*{
+  font-family: sans-serif;
+}
+#header-style{
+    background-color: #ffd8ca;
+    padding: 10px;
+}
+#nav-style{
+  background-color: #ffe5dc;
+  padding: 10px;
+}
+#nav-style ul{
+  background-color:#fff2ed;
+  padding: 10px;
+}
+#nav-style ul li:first-child{
+  background-color: #ffcbb9;
+  padding: 10px;
+}
+.cool-div{
+  background-color: pink;
+  padding: 10px;
+}
+.cool-div p{
+  background-color: #ff8b61;
+  padding: 10px;
+}
+#coolh1{
+  font-family: sans-serif;
+  background-color: #ffbfa7;
+  padding: 10px;
+}
+.form-style{
+  background-color: #ffd8ca;
+  width: 500px;
+  border: 27px solid #ffcbb9;
+  padding: 50px;
+  margin: 100px auto;
+}
+.form-style label{
+  background-color: pink;
+}
+.cake img{
+  width: 400px;
+  border-radius: 40px;
+  margin: 100px auto;
+}
+.otherimage {
+  background-image: url("../images/ice.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 500px;
+  height: 500px;
+  border:5px solid #b25838;
+  border-radius: 40px;
+  margin: 100px auto;
+}
+.span{
+  font-weight: bold;
+  color: yellow;
+}
